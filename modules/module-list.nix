@@ -1,0 +1,10 @@
+[
+  ./build-tarball.nix
+  ./docker-desktop.nix
+  ./docker-native.nix
+  ./installer.nix
+  ./interop.nix
+  ./version.nix
+  ./wsl-conf.nix
+  ./wsl-distro.nix
+]
